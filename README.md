@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenil Bhalala</h1>
-<h3 align="center">🚀 Full Stack Developer | Building Scalable SaaS & Web Applications</h3>
+<h3 align="center">🚀 Full Stack Developer | Building Scalable SaaS Products </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jenildbhalala&label=Profile%20views&color=0e75b6&style=flat" alt="jenildbhalala" />
@@ -140,8 +140,22 @@
 
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenildbhalala&show_icons=true&locale=en&theme=tokyonight" alt="jenildbhalala"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenildbhalala&theme=tokyonight" alt="jenildbhalala"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenildbhalala&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jenildbhalala"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jenildbhalala&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Jenil's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jenildbhalala&theme=tokyonight&hide_border=true"
+    alt="Jenil's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenildbhalala&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Jenil's Top Languages"
+  />
 </p>
