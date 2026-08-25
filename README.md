@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Currently learning **Docker, Kubernetes, CI/CD Pipelines, System Design**  
+- 🌱 Building **SaaS Products**  
 - 📝 Writing articles on [Medium](https://medium.com/@jenil.bhalala)  
 - 📫 Reach me at **work.jenil.bhalala@gmail.com**  
 
@@ -72,6 +72,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" title="MySQL"/>
     </td>
   </tr>
+  <tr> <td><b>AWS & Cloud</b></td> <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="30" title="AWS"/> <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" height="25" title="AWS Lambda"/> <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="25" title="Amazon S3"/> <img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" height="25" title="Amazon SQS"/> <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" height="25" title="API Gateway"/> <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" height="25" title="CloudWatch"/> <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" height="25" title="IAM"/> <img src="https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonsns&logoColor=white" height="25" title="Amazon SNS"/> <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white" height="25" title="EventBridge"/> </td> </tr>
   <tr>
     <td><b>Tools</b></td>
     <td>
@@ -83,6 +84,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="30" height="30" title="Notion"/>
     </td>
   </tr>
+  
   <tr>
     <td><b>Practices</b></td>
     <td>
