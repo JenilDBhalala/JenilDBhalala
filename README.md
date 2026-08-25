@@ -135,27 +135,3 @@
     </td>
   </tr>
 </table>
-
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jenildbhalala&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Jenil's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jenildbhalala&theme=tokyonight&hide_border=true"
-    alt="Jenil's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenildbhalala&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Jenil's Top Languages"
-  />
-</p>
